@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110380493206",
+    "project_id": "chatapp-9dd9b",
+    "storage_bucket": "chatapp-9dd9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110380493206:android:c7720f2f631b019e4e15b7",
+        "android_client_info": {
+          "package_name": "com.sandeep.messanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgzRz9cnsOXV0PeOcPZ_vSoE4qiZiXu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
